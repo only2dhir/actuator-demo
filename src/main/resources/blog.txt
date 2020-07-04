@@ -1,0 +1,4 @@
+https://github.com/Netflix/Hystrix/issues/1516
+https://stackoverflow.com/questions/49614351/hystrix-circuit-breaker-trigger-an-event-in-spring-micro-service-implementation
+
+After
